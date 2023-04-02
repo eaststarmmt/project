@@ -9,7 +9,7 @@ def input_data():
 	led = readl().split()
 	return N, led
 
-
+# dfsdfsdf
 sol = 0
 
 # 입력받는 부분
