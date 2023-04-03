@@ -1,8 +1,8 @@
 def add():
     pass
 
-def sub():
-    pass
+def sub(a, b):
+    return a - b
 
 def mul():
     pass
