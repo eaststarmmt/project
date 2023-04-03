@@ -1,5 +1,5 @@
-def add():
-    pass
+def add(a, b):
+    return a + b
 
 def sub():
     pass
